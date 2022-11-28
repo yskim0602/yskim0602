@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **yskim0602/yskim0602** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -19,4 +17,4 @@ Here are some ideas to get you started:
 
 <img src="https://raw.githubusercontent.com/dkssud8150/github-stats-transparent/output/generated/languages.svg" width="49.2%" />
 
-#F7DF1E
+
