@@ -39,6 +39,6 @@ Here are some ideas to get you started:
 
 <h3 align="center">SNS</h3>
 <p align="center">
-  <a href="https://yskim0602.github.io/(https://github.com/yskim0602)"><img src="https://img.shields.io/badge/-TechBlog-brightgreen">&nbsp
+  <a href="https://github.com/yskim0602"><img src="https://img.shields.io/badge/-TechBlog-brightgreen">&nbsp
     <a href="mailto:yousungkim0602@gmail.com"><img src="https://img.shields.io/badge/-Gmail-critical">
  </p>
