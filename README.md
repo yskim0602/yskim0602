@@ -37,3 +37,8 @@ Here are some ideas to get you started:
 
 </p>
 
+<h3 align="center">SNS</h3>
+<p align="center">
+  <a href="https://yskim0602.github.io/"><img src="https://img.shields.io/badge/-TechBlog-brightgreen">&nbsp
+    <a href="mailto:yousungkim0602@gmail.com"><img src="https://img.shields.io/badge/-Gmail-critical">
+ </p>
