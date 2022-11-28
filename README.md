@@ -21,6 +21,8 @@ Here are some ideas to get you started:
 <!-- ![html5](https://user-images.githubusercontent.com/75105125/204175256-02a3e06a-9d73-4297-a003-c324067d5b16.svg) -->
 
 <!-- <a href="https://yskim0602.github.io/"> -->
-![html5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/)&nbsp
-
+<h3 align="center">스킬</h3>
+<p align="center">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white" /></a>
+</p>
 
