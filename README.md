@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 #Skills
 
 ![html5](https://user-images.githubusercontent.com/75105125/204175256-02a3e06a-9d73-4297-a003-c324067d5b16.svg)
-![html5](https://user-images.githubusercontent.com/75105125/204175256-02a3e06a-9d73-4297-a003-c324067d5b16.svg)
-![html5](https://user-images.githubusercontent.com/75105125/204175256-02a3e06a-9d73-4297-a003-c324067d5b16.svg)
+
+<img src="https://img.shields.io/badge/-html-orange?style=flat-square&logo=simpleicon" alt="html5">#E34F26
+<img src="https://img.shields.io/badge/-html-orange?style=flat-square&logo=simpleicon" alt="html5">#E34F26
 <img src="https://img.shields.io/badge/-html-orange?style=flat-square&logo=simpleicon" alt="html5">#E34F26
