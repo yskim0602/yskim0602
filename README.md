@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 
 #Skills
 
-![html](https://raw.githubusercontent.com/dkssud8150/github-stats-transparent/output/generated/languages.svg" width="49.2%)
+![html5](https://user-images.githubusercontent.com/75105125/204175256-02a3e06a-9d73-4297-a003-c324067d5b16.svg)
