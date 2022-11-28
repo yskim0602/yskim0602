@@ -41,5 +41,5 @@ Here are some ideas to get you started:
 <p align="center">
   <a href="https://github.com/yskim0602"><img src="https://img.shields.io/badge/-TechBlog-brightgreen">&nbsp
     <a href="mailto:yousungkim0602@gmail.com"><img src="https://img.shields.io/badge/-Gmail-critical">
-        <a href="mailto:yousungkim0602@gmail.com"><img src="https://img.shields.io/badge/-Instagram">
+        <a href="mailto:yousungkim0602@gmail.com"><img src="https://img.shields.io/badge/Instagram">
  </p>
