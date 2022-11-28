@@ -24,4 +24,4 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/-javascript-yellow?style=flat-square&logo=simpleicon" alt="javascript">
 <img src="https://img.shields.io/badge/-css3-lightblue?style=flat-square&logo=simpleicon" alt="css3">
 
-?style=for-the-badge&logo=appveyor
+?style=for-the-badge&logo=#E34F26
