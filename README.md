@@ -35,7 +35,8 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white" /></a>&nbsp
 <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white" /></a>&nbsp
 <img src="https://img.shields.io/badge/Apache-Tomcat-F8DC75?style=flat-square&logo=Apache-Tomcat&logoColor=white" /></a>&nbsp
-
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Apache-Figma&logoColor=white" /></a>&nbsp
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white" /></a>&nbsp
 </p>
 
 <h3 align="center">SNS</h3>
