@@ -20,8 +20,7 @@ Here are some ideas to get you started:
 
 <!-- ![html5](https://user-images.githubusercontent.com/75105125/204175256-02a3e06a-9d73-4297-a003-c324067d5b16.svg) -->
 
-<img src="https://img.shields.io/badge/-html5-orange?style=flat-square&logo=simpleicon" alt="html5">
-<img src="https://img.shields.io/badge/-javascript-yellow?style=flat-square&logo=simpleicon" alt="javascript">
-<img src="https://img.shields.io/badge/-css3-lightblue?style=flat-square&logo=simpleicon" alt="css3">
+<a href="https://yskim0602.github.io/">
+https://img.shields.io/badge/-html5-orange
 
-?style=for-the-badge&logo=#E34F26
+
